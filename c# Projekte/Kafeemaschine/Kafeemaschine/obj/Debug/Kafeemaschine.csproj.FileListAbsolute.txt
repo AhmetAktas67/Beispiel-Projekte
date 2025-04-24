@@ -1,0 +1,7 @@
+F:\c# Projekte\Kafeemaschine\Kafeemaschine\bin\Debug\Kafeemaschine.exe.config
+F:\c# Projekte\Kafeemaschine\Kafeemaschine\bin\Debug\Kafeemaschine.exe
+F:\c# Projekte\Kafeemaschine\Kafeemaschine\bin\Debug\Kafeemaschine.pdb
+F:\c# Projekte\Kafeemaschine\Kafeemaschine\obj\Debug\Kafeemaschine.csproj.AssemblyReference.cache
+F:\c# Projekte\Kafeemaschine\Kafeemaschine\obj\Debug\Kafeemaschine.csproj.CoreCompileInputs.cache
+F:\c# Projekte\Kafeemaschine\Kafeemaschine\obj\Debug\Kafeemaschine.exe
+F:\c# Projekte\Kafeemaschine\Kafeemaschine\obj\Debug\Kafeemaschine.pdb
