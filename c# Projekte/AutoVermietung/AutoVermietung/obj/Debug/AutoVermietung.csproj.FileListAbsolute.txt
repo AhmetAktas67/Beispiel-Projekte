@@ -1,0 +1,7 @@
+F:\c# Projekte\AutoVermietung\AutoVermietung\bin\Debug\AutoVermietung.exe.config
+F:\c# Projekte\AutoVermietung\AutoVermietung\bin\Debug\AutoVermietung.exe
+F:\c# Projekte\AutoVermietung\AutoVermietung\bin\Debug\AutoVermietung.pdb
+F:\c# Projekte\AutoVermietung\AutoVermietung\obj\Debug\AutoVermietung.csproj.AssemblyReference.cache
+F:\c# Projekte\AutoVermietung\AutoVermietung\obj\Debug\AutoVermietung.csproj.CoreCompileInputs.cache
+F:\c# Projekte\AutoVermietung\AutoVermietung\obj\Debug\AutoVermietung.exe
+F:\c# Projekte\AutoVermietung\AutoVermietung\obj\Debug\AutoVermietung.pdb
